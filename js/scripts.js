@@ -20,4 +20,5 @@ Player.prototype.calcSum = function () {
 
 $(document).ready(function () {
 
+
 });
