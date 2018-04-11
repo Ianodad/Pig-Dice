@@ -22,6 +22,8 @@ If the output is not a 1, a player will continue to accumulate points and can ho
 
 An output of one results in a zero of accumulated points.
 
+follow link to site  https://ianodad.github.io/Pig-Dice/
+
 #Known Bugs
 do far tried creating play with computer but failed dont click on one player didnt finish that half
 Technologies Used
@@ -30,3 +32,5 @@ Technologies Used
 3. Animate
 4. js
 5. jQuery
+
+License @ Valor Media 
