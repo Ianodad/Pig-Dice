@@ -1,36 +1,27 @@
-##Pig-Dice
-#By Ian Odhimabo
-Description
-The Pig-Dice game is a fun game based on two players rolling a dice.
+# Ian Odhiambo
+#### Pig Dice a game of dices and chance, 8th April 2018
+#### By **Ian Odhiambo**
+## Description
+Pig is considered a jeopardy game, where you risk everything to see if you can win more. The numbers on the die (except for "1") each represent points that can accumulate—the winner is the first player to reach 100 points.
+## Computer vs Player
+# Player
 
-#A player rolls the die until either:
+## Setup/Installation Requirements
+Dice rolls and displays random number 1-6_
+* Program switches turns between the two players_
+* Player can choose to roll or hold_
+* Program displays rolled numbers in that turn_
+* Program adds rolled numbers and displays turn total_
+* If player presses "hold" button, their turn is over and their score is added to their total score_
+* If player rolls a "1", their turn is over and their turn score is not added to their total score_
+* Whichever player reaches a total score of 100 first wins_
 
-1. A one is rolled
-2. The player chooses to hold i.e. stop rolling
-When a one is rolled, accumulated points are discarded and the other player takes over the dice.
+## Known Bugs
+Tried creating computer but i stalled so i left that hanging dont try
+## Technologies Used
+Javascript, HTML, CSS, jQuery, Bootstrap
 
-When Hold is pressed, the accumulated points are added to the player's final Score.
-
-The other player then takes the die over.
-
-#Specifications
-The web application will request the names of two users.
-
-The two players will proceed to roll the dice, by generating a random number from 1 to 6.
-
-If the output is not a 1, a player will continue to accumulate points and can hold in his discretion to add up to his/her final tally.
-
-An output of one results in a zero of accumulated points.
-
-follow link to site  https://ianodad.github.io/Pig-Dice/
-
-#Known Bugs
-do far tried creating play with computer but failed dont click on one player didnt finish that half
-Technologies Used
-1. HTML
-2. Bootstrap
-3. Animate
-4. js
-5. jQuery
-
-License @ Valor Media 
+## Support and contact details
+suport by Ian Odhaimbo email @ian Odhiambo
+### License
+Copyright (c) 2017 **_Ian Odhiambo_**
