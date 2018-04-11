@@ -21,6 +21,9 @@ Tried creating computer but i stalled so i left that hanging dont try
 ## Technologies Used
 Javascript, HTML, CSS, jQuery, Bootstrap
 
+## Link to gh-pages
+ https://ianodad.github.io/Pig-Dice/
+
 ## Support and contact details
 suport by Ian Odhaimbo email ianodad@gmail.com
 ### License
