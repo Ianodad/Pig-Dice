@@ -22,6 +22,6 @@ Tried creating computer but i stalled so i left that hanging dont try
 Javascript, HTML, CSS, jQuery, Bootstrap
 
 ## Support and contact details
-suport by Ian Odhaimbo email @ian Odhiambo
+suport by Ian Odhaimbo email ianodad@gmail.com
 ### License
 Copyright (c) 2017 **_Ian Odhiambo_**
